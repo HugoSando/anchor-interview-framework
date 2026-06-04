@@ -18,44 +18,7 @@ This framework does the opposite. It's built on one belief, proven over and over
 
 > **The precise truth, delivered with structure, beats the polished exaggeration every time.**
 
-It was written by someone going through a layoff and a job search, who realized the heaviest thing he was carrying into interviews had nothing to do with his skills — it was that he'd stopped valuing himself. The framework is what came out of putting that weight down. It's shared freely, so the next person doesn't have to carry it alone.
-
----
-
-## The Core Belief
-
-**You are not asking for a job. You are evaluating a mutual fit.**
-
-A person who is begging performs, inflates, and flinches. A person who is evaluating fit is calm, honest, and curious. The interviewer feels the difference within two minutes — and it shapes how they receive everything else you say.
-
-You bring real value. They have a real need. The interview is where you both find out if those match. Walk in as an equal solving a shared question — not a supplicant hoping to be chosen.
-
----
-
-## The Five Values (the foundation)
-
-1. **Truth is the strongest strategy.** Every inflated claim is a liability waiting to surface. Every precise truth is an asset that compounds trust.
-2. **Specificity is credibility.** "I work with cloud infrastructure" proves nothing. The exact moment, the number, the named tool proves you were there.
-3. **Lead with the why, then the what.** People remember purpose, not tasks.
-4. **Own your outcomes, name your edges.** Take full credit for what you drove. Name your growth areas before you're asked. "Here's what I have, here's what I don't, here's why the combination is what you need" is the most trusted answer structure there is.
-5. **Every answer lands forward.** The past is evidence; the role is the point.
-
----
-
-## The ANCHOR Method (per-answer structure)
-
-For any question, structure your answer with these six moves:
-
-| | Move | What it means |
-|---|---|---|
-| **A** | **Answer first** | Lead with a one-sentence headline. Don't bury your point. |
-| **N** | **Name what's underneath** | Every question has a hidden question. Answer the real one. |
-| **C** | **Concrete evidence** | Back every claim with a number, a tool, a moment, a quote. |
-| **H** | **Honest edges** | Own what you did. Own what you didn't. Precision builds trust. |
-| **O** | **Onward** | Land every answer pointing forward, toward the role. |
-| **R** | **Reflect** | Have a "what I'd do differently" ready. Reflection beats a flawless record. |
-
-Not every answer needs all six. The strongest ones usually hit most.
+It was written by someone going through a layoff and a job search, who realized the heaviest thing he was carrying into interviews had nothing to do with his skills.
 
 📖 **The complete framework — with examples, the preparation ritual, and the mindset section — is in [ANCHOR-FRAMEWORK.md](ANCHOR-FRAMEWORK.md).**
 
